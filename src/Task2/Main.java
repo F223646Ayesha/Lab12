@@ -1,5 +1,8 @@
-public class Main { 
-public static void main(String[] args) { 
-System.out.println("Main branch update."); 
-} 
-} 
+
+package Task2;
+
+public class Main {
+public static void main(String[] args) {
+System.out.println("Feature A work in progress.");
+}
+}
