@@ -7,5 +7,6 @@ public class Main {
     public static void greetUser() { 
         System.out.println("Hello, User!"); 
         System.out.println("How are you?"); 
+        System.out.println("How is your ghisi pitti life going?");
     } 
 }
